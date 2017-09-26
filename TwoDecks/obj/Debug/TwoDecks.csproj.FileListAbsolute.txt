@@ -1,0 +1,9 @@
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\bin\Debug\TwoDecks.exe.config
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\bin\Debug\TwoDecks.exe
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\bin\Debug\TwoDecks.pdb
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.csprojResolveAssemblyReference.cache
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.Properties.Resources.resources
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.csproj.GenerateResource.Cache
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.exe
+c:\users\nadine.moser\documents\visual studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.pdb
+C:\Users\nadine.moser\Documents\Visual Studio 2017\Projects\TwoDecks\TwoDecks\obj\Debug\TwoDecks.GUI.resources
